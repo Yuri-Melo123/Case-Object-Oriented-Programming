@@ -1,0 +1,4 @@
+com\biblioteca\LivroController.class
+com\biblioteca\BibliotecaApplication.class
+com\biblioteca\Livro.class
+com\biblioteca\LivroRepository.class
